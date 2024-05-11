@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "554365791270",
+    "firebase_url": "https://lucyrobo-4131c-default-rtdb.firebaseio.com",
+    "project_id": "lucyrobo-4131c",
+    "storage_bucket": "lucyrobo-4131c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554365791270:android:e84bb9b6171f87100c4ae7",
+        "android_client_info": {
+          "package_name": "com.example.lucyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKYTHEG_7Sw-JY9ENLa-YdzvOZzj2HNfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
